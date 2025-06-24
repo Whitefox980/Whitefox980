@@ -83,7 +83,22 @@ const whitefox980 = {
 ### 🌐 **ShadowFox_OS** - 
  Shadow OS Security Researcher
 Researches and analyzes security threats, develops tools and methods for detection, exploitation, and prevention of attacks, with a focus on complex systems and zero‑day vulnerabilities.
-> **Next-generation platform revolutionizing digital presence**
+
+---
+
+## 🐺 What is Shadow OS?
+
+**Shadow OS** was a long‑term cybersecurity and digital forensics initiative — an experimental OS concept for deep reconnaissance, threat detection, and digital artifact recovery.  
+It combined open‑source tools, custom scripts, and AI‑driven analysis to:
+
+- 🔍 Scan old dumps, forums, and `.db` files for lost Bitcoin addresses, private keys, and digital footprints.  
+- ⚔️ Identify and assess security threats and vulnerabilities across legacy platforms.  
+- 🕵️ Operate as a digital archaeological workspace for extracting forgotten or overlooked digital artifacts.
+
+**Shadow OS** acted as a foundation for projects like `bitcoin1` — a toolbox for digital archaeology and recovery, preserving and exploring the hidden layers of early internet and crypto history.
+
+---
+xt-generation platform revolutionizing digital presence**
 - 🎯 **Vision:** Democratizing professional web presence
 - 🚀 **Innovation:** AI-powered website generation and optimization
 - 💎 **Market:** Serving 2M+ businesses in Southeast Europe
