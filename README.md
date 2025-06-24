@@ -172,7 +172,7 @@ xt-generation platform revolutionizing digital presence**
 <div align="center">
 
 ### **Ready to collaborate on the next big thing?**
-[![TikTok](https://img.shields.io/badge/TikTok-@whitefox980-black?logo=tiktok)](https://www.tiktok.com/@whitefox980)
+[![TikTok](https://img.shields.io/badge/TikTok-@white.fox980-black?logo=tiktok)](https://www.tiktok.com/@white.fox980)
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@whitefox980.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/whitefox980)
