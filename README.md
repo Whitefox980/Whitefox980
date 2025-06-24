@@ -81,6 +81,8 @@ const whitefox980 = {
 **[→ Experience VoiceVerse Live](https://voice-verse-gamma.vercel.app)**
 
 ### 🌐 **ShadowFox_OS** - 
+ Shadow OS Security Researcher
+Researches and analyzes security threats, develops tools and methods for detection, exploitation, and prevention of attacks, with a focus on complex systems and zero‑day vulnerabilities.
 > **Next-generation platform revolutionizing digital presence**
 - 🎯 **Vision:** Democratizing professional web presence
 - 🚀 **Innovation:** AI-powered website generation and optimization
@@ -111,7 +113,7 @@ const whitefox980 = {
 ```yaml
 2025_Goals:
   🏆 MGX_Challenge: "Dominate with VoiceVerse"
-  🚀 Product_Launch: "GDE-KAKO.RS MVP"
+  🚀 Product_Launch: "VolMax-Studio MVP"
   🌍 Global_Reach: "10K+ users across platforms"
   💡 Innovation: "3 breakthrough AI tools"
   🤝 Community: "Build developer ecosystem"
