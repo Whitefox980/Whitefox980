@@ -86,7 +86,18 @@ Researches and analyzes security threats, develops tools and methods for detecti
 
 ---
 
-## 🐺 What is Shadow OS?
+## 🐺 What is Shadow OS? 
+---
+
+## 📢 Public Release
+
+I’ve decided to make all of my **ethical hacking** repositories publicly available — including the Shadow OS project, fuzzers, reconnaissance tools, and AI analyzers across **all 26 repos**.
+
+These tools were built for research, digital forensics, and recovery of lost digital artifacts.  
+**Use them responsibly and carefully.**  
+I do not take responsibility for any unauthorized or illegal use.
+
+---
 
 **Shadow OS** was a long‑term cybersecurity and digital forensics initiative — an experimental OS concept for deep reconnaissance, threat detection, and digital artifact recovery.  
 It combined open‑source tools, custom scripts, and AI‑driven analysis to:
