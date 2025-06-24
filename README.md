@@ -80,7 +80,7 @@ const whitefox980 = {
 
 **[→ Experience VoiceVerse Live](https://voice-verse-gamma.vercel.app)**
 
-### 🌐 **GDE-KAKO.RS** - *Coming Soon*
+### 🌐 **ShadowFox_OS** - 
 > **Next-generation platform revolutionizing digital presence**
 - 🎯 **Vision:** Democratizing professional web presence
 - 🚀 **Innovation:** AI-powered website generation and optimization
