@@ -116,6 +116,9 @@ xt-generation platform revolutionizing digital presence**
 - 🔮 **Status:** Stealth mode, launching Q3 2025
 
 ---
+## ** Applications 
+### [sezon](https://sezonapp.vercel.app/ "demo")	
+
 
 ## 📊 GitHub Statistics
 
@@ -143,6 +146,7 @@ xt-generation platform revolutionizing digital presence**
   🌍 Global_Reach: "10K+ users across platforms"
   💡 Innovation: "3 breakthrough AI tools"
   🤝 Community: "Build developer ecosystem"
+   ### VolMax Studio Lab
 ```
 
 ---
