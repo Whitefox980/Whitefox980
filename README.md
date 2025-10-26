@@ -86,6 +86,11 @@ Researches and analyzes security threats, develops tools and methods for detecti
 
 ---
 https://github.com/Whitefox980/ShadowFox.v2
+https://github.com/Whitefox980/ShadowOS8
+https://github.com/Whitefox980/ShadowOS9
+
+https://github.com/Whitefox980/ShadowOS10
+
 
 ## 🐺 What is Shadow OS? 
 ---
