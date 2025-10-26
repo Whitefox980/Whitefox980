@@ -85,6 +85,7 @@ const whitefox980 = {
 Researches and analyzes security threats, develops tools and methods for detection, exploitation, and prevention of attacks, with a focus on complex systems and zero‑day vulnerabilities.
 
 ---
+https://github.com/Whitefox980/ShadowFox.v2
 
 ## 🐺 What is Shadow OS? 
 ---
